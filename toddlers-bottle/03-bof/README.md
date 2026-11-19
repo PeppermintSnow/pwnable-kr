@@ -142,7 +142,7 @@ Dump of assembler code for function main:
 End of assembler dump.
 ```
 
-We make use of run the binary file `bof` in `gdb` so we can inspect memory 
+We run the binary file `bof` in `gdb` so we can inspect memory 
 addresses and disassemble instructions on the fly. Here's a breakdown of the
 commands used in the snippet above:
 - `b main`: Adds a breakpoint to `main` so it pauses execution upon entrance.
