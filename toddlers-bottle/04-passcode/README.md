@@ -1,6 +1,6 @@
 # passcode
 **Tier**: toddlers-bottle  
-**Points:** 20pt  
+**Points:** 20pts  
 **Vulnerability:** [CWE-123: Write-what-where Condition](https://cwe.mitre.org/data/definitions/123.html)  
 **Concepts:** Uninitialized Values, Arbitrary Write  
 **Date:** 2026-11-19

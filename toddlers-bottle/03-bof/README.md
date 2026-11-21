@@ -1,6 +1,6 @@
 # bof
 **Tier**: toddlers-bottle  
-**Points:** 5pt  
+**Points:** 5pts  
 **Vulnerability:** [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html)  
 **Concepts:** Stack-based Buffer Overflow  
 **Date:** 2026-11-16

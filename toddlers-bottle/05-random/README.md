@@ -6,7 +6,7 @@
 **Date:** 2026-11-21
 
 > Daddy, teach me how to use random value in programming!  
-> [passcode - pwnable.kr](https://pwnable.kr/play/17)
+> [random - pwnable.kr](https://pwnable.kr/play/17)
 
 ## 1. Recon
 
